@@ -1,16 +1,5 @@
 <!-- markdownlint-disable MD030 -->
 
-<p align="center">
-<img src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_white.svg#gh-light-mode-only">
-<img src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_dark.svg#gh-dark-mode-only">
-</p>
-
-[![发布说明](https://img.shields.io/github/release/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise/releases)
-[![Discord](https://img.shields.io/discord/1087698854775881778?label=Discord&logo=discord)](https://discord.gg/jbaHfsRVBW)
-[![Twitter关注](https://img.shields.io/twitter/follow/FlowiseAI?style=social)](https://twitter.com/FlowiseAI)
-[![GitHub星图](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)](https://star-history.com/#FlowiseAI/Flowise)
-[![GitHub分支](https://img.shields.io/github/forks/FlowiseAI/Flowise?style=social)](https://github.com/FlowiseAI/Flowise/fork)
-
 [English](../README.md) | [繁體中文](./README-TW.md) | 简体中文 | [日本語](./README-JA.md) | [한국어](./README-KR.md)
 
 <h3>可视化构建 AI/LLM 流程</h3>
@@ -165,22 +154,6 @@ Flowise 支持不同的环境变量来配置您的实例。您可以在 `package
         [![部署到 RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploy.png)](https://repocloud.io/details/?app_id=29)
 
       </details>
-
-## ☁️ 云托管
-
-[开始使用云托管](https://flowiseai.com/)
-
-## 🙋 支持
-
-在[讨论区](https://github.com/FlowiseAI/Flowise/discussions)中随时提问、提出问题和请求新功能
-
-## 🙌 贡献
-
-感谢这些了不起的贡献者
-
-<a href="https://github.com/FlowiseAI/Flowise/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=FlowiseAI/Flowise" />
-</a>
 
 参见[贡献指南](CONTRIBUTING-ZH.md)。如果您有任何问题或问题，请在[Discord](https://discord.gg/jbaHfsRVBW)上与我们联系。
 
